@@ -8,7 +8,7 @@
 |---|---|
 | `Lab1` | Spring Boot апликација за регистрација на работилници (Servlets + Thymeleaf) |
 
-## Како се стартува вежба
+## Апликацијата се стартува:
 
 Потребно е: JDK 25 и Maven.
 
@@ -17,6 +17,4 @@ cd Lab1
 mvn spring-boot:run
 ```
 
-Апликацијата е достапна на http://localhost:8080/.
-
-Во IntelliJ IDEA може да се отвори папката на вежбата (на пример `Lab1`) како Maven проект и да се стартува класата `LabApplication`.
+http://localhost:8080/
