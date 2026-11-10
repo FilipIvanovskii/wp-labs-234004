@@ -7,14 +7,16 @@
 | Папка | Опис |
 |---|---|
 | `Lab1` | Spring Boot апликација за регистрација на работилници (Servlets + Thymeleaf) |
+| `Lab2` | Иста апликација со Spring MVC контролери, инструктори и CRUD за работилници |
 
 ## Апликацијата се стартува:
 
 Потребно е: JDK 25 и Maven.
 
 ```bash
-cd Lab1
+cd Lab2
 mvn spring-boot:run
 ```
 
 http://localhost:8080/
+
